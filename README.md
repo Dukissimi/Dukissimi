@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benfraj Youssef</h1>
-<h3 align="center">IT Student | Networks & Security | Cloud & DevOps Enthusiast</h3>
+<h3 align="center">IT Student | Networks & Systems | Security & Cloud</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/youssefbenfraj/" target="_blank">
@@ -14,21 +14,31 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dukissimi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=dukissimi&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 ### 🎓 About Me
-- 🌱 Currently learning **Networking fundamentals (VLAN, Routing), Linux Administration, Docker, Kubernetes, and AWS basics**
-- 🧪 Focused on **hands-on labs** in networking, virtualization, and system administration
-- 🎯 Actively seeking **internship / training opportunities** in Networks, Systems, or Security
+- 🎓 IT student specialized in **Networks & Systems**
+- 🔐 Interested in **network security, system administration, and virtualization**
+- 🧪 Learning through **hands-on labs and academic projects**
+- 🎯 Actively looking for **internship / training opportunities**
+
+---
+
+### 🌱 Currently Learning
+- Networking (VLAN, Inter-VLAN Routing, Switching & Routing)
+- Linux System Administration
+- Docker & containerization
+- Virtualization (Proxmox, VMware)
+- Network & system security fundamentals
 
 ---
 
 ### 👨‍💻 Projects
-- All my academic and personal labs are available here:  
-  👉 **https://github.com/Dukissimi**
+👉 All my academic and lab projects are available here:  
+**https://github.com/Dukissimi**
 
 ---
 
@@ -40,39 +50,40 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://grafana.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  </a>
+
+<!-- Networking & Systems -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" height="40"/>
+
+<!-- Virtualization & Containers -->
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Proxmox_logo_standard_hexagon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" width="40" height="40"/>
+
+<!-- Cloud & DevOps -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+
+<!-- Databases -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+
+<!-- Programming & Scripting -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
+
+<!-- Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40" height="40"/>
+
+<!-- Design (from CV) -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
+
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dukissimi&show_icons=true&theme=default" alt="GitHub stats"/>
-</p>
-
----
-
-⚡ **Fun fact:** I learn best by building labs, breaking things, and fixing them properly 😄
+⚡ **Fun fact:** I learn best by designing networks, testing them, breaking them, and fixing them properly 😄
