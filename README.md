@@ -86,4 +86,3 @@
 
 ---
 
-⚡ **Fun fact:** I learn best by designing networks, testing them, breaking them, and fixing them properly 😄
