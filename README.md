@@ -27,18 +27,12 @@
 
 ---
 
-### 🌱 Currently Learning
-- Networking (VLAN, Inter-VLAN Routing, Switching & Routing)
-- Linux System Administration
-- Docker & containerization
-- Virtualization (Proxmox, VMware)
-- Network & system security fundamentals
 
----
 
 ### 👨‍💻 Projects
 👉 All my academic and lab projects are available here:  
 **https://github.com/Dukissimi**
+**https://www.linkedin.com/in/youssefbenfraj/**
 
 ---
 
